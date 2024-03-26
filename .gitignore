@@ -1,0 +1,4 @@
+Output/ReadyToSend/*
+!example.txt
+
+.DS_Store
